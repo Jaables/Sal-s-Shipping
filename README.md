@@ -25,5 +25,6 @@ Over 10 lb 	                        $14.25 	          $0.00
 Ground Shipping
 | Weight    | Price per pound     | Flat Charge  
 | ------------- | ------------- | --------    |
-| `John`        | Test1         | `NewYork`   |
-| `Bob`         | Test2         | `Toronto`   |
+| 2 lb or less        | Test1         | `NewYork`   |
+| Over 2 lb but less 
+than or equal to 6 lb        | Test2         | `Toronto`   |
