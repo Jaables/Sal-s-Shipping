@@ -21,3 +21,9 @@ than or equal to 6 lb 	            $9.00 	          $0.00
 Over 6 lb but less 
 than or equal to 10 lb 	            $12.00 	          $0.00
 Over 10 lb 	                        $14.25 	          $0.00
+
+
+| FirstName     | LastName      | City   
+| ------------- | ------------- | --------    |
+| `John`        | Test1         | `NewYork`   |
+| `Bob`         | Test2         | `Toronto`   |
