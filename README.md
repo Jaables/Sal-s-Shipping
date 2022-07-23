@@ -26,5 +26,4 @@ Ground Shipping
 | Weight    | Price per pound     | Flat Charge  
 | ------------- | ------------- | --------    |
 | 2 lb or less        | Test1         | `NewYork`   |
-| Over 2 lb but less 
-than or equal to 6 lb        | Test2         | `Toronto`   |
+| Over 2 lb but less than or equal to 6 lb        | Test2         | `Toronto`   |
